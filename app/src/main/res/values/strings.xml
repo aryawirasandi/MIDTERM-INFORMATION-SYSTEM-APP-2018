@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UTS-SI3905-15-ARYA WIRASANDI</string>
+    <string-array name="bulan">
+        <item>Januari</item>
+        <item>February</item>
+        <item>Maret</item>
+        <item>April</item>
+        <item>Mei</item>
+        <item>Juni</item>
+        <item>Juli</item>
+        <item>Agustus</item>
+    </string-array>
+</resources>
